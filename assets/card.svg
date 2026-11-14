@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" shape-rendering="crispEdges">
-<rect x="28" y="24" width="852" height="260" fill="#4fe3ff"/>
-<rect x="8" y="20" width="852" height="260" fill="#ff5fb8"/>
+<rect x="28" y="24" width="852" height="260" fill="#4fe3ff" class="gc"/>
+<rect x="8" y="20" width="852" height="260" fill="#ff5fb8" class="gp"/>
 <rect x="16" y="12" width="852" height="260" fill="#1d1a3d"/>
 <rect x="16" y="12" width="852" height="28" fill="#b78cff"/>
 <rect x="852" y="20" width="12" height="12" fill="#ff5fb8"/>
 <rect x="836" y="20" width="12" height="12" fill="#4fe3ff"/>
 <rect x="820" y="20" width="12" height="12" fill="#f2f0ff"/>
-<rect x="868" y="64" width="24" height="8" fill="#ff5fb8"/>
-<rect x="868" y="129" width="12" height="8" fill="#4fe3ff"/>
-<rect x="868" y="194" width="20" height="8" fill="#ff5fb8"/>
+<rect x="868" y="64" width="24" height="8" fill="#ff5fb8" class="gt gt0"/>
+<rect x="868" y="129" width="12" height="8" fill="#4fe3ff" class="gt gt1"/>
+<rect x="868" y="194" width="20" height="8" fill="#ff5fb8" class="gt gt2"/>
 <rect x="30" y="20" width="8" height="2" fill="#14122b"/>
 <rect x="30" y="22" width="2" height="2" fill="#14122b"/>
 <rect x="38" y="22" width="2" height="2" fill="#14122b"/>
